@@ -7,6 +7,7 @@ a simple raytracer, to learn and understand concepts
 - scaling of objects
 - automated "rendering"
 - exporting as images
+- "rendering" frames from config file which specifies scene and camera position and more miscellaneous settings
 - following in the future:
     - colormaps
     - normalmaps
